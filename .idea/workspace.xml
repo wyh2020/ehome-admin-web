@@ -1,7 +1,323 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efb8c31a-887e-41cd-a504-7f914a8d874a" name="Default" comment="" />
+    <list default="true" id="efb8c31a-887e-41cd-a504-7f914a8d874a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/wyh.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/.metadata_never_index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Certificate Revocation Lists" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_metadata/verified_contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/03019df3fd85a69a8ebd1facc6da9ba73e469774fe77f579fc5a08b8328c1d6b.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/293c519654c83965baaa50fc5807d4b76fbf587a2972dca4c30cf4e54547f478.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/34bb6ad6c3df9c03eea8a499ff7891486c9d5e5cac92d01f7bfd1bce19db48ef.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/41b2dc2e89e63ce4af1ba7bb29bf68c6dee6f9f1cc047e30dffae3b3ba259263.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/5614069a2fd7c2ecd3f5e1bd44b23ec74676b9bc99115cc0ef949855d689d0dd.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/68f698f81f6482be3a8ceeb9281d4cfc71515d6793d444d10a67acbb4f4ffbc4.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/7461b4a09cfb3d41d75159575b2e7649a445a8d27709b0cc564a6482b7eb41a3.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/a4b90990b418581487bb13a2cc67700a3c359804f91bdfb8e377cd0ec80ddc10.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/a577ac9ced7548dd8f025b67a241089df86e0f476ec203c2ecbedb185f282638.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/ac3b9aed7fa9674757159e6d7d575672f9d98100941e9bdeffeca1313b75782d.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/bbd9dfbc1f8a71b593942397aa927b473857950aab52e81a909664368e1ed185.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/bc78e1dfc5f63c684649334da10fa15f0979692009c081b4f3f6917f3ed9b8a5.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/cdb5179b7fc1c046feea31136a3f8f002e6182faf8896fecc8b2f5b5ab604900.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/ddeb1d2b7a0d4fa6208b81ad8168707e2e8e9d01d55c888d3d11c4cdb6ecbecc.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/e0127629e90496564e3d0147984498aa48f8adb16600eb7902a1ef9909906273.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/_platform_specific/all/sths/ee4bbdb775ce60bae142691fabe19e66a30f7e5fb072d88300c47b897aa8fdcb.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/manifest.fingerprint" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/415/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_metadata/verified_contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/03019df3fd85a69a8ebd1facc6da9ba73e469774fe77f579fc5a08b8328c1d6b.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/293c519654c83965baaa50fc5807d4b76fbf587a2972dca4c30cf4e54547f478.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/34bb6ad6c3df9c03eea8a499ff7891486c9d5e5cac92d01f7bfd1bce19db48ef.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/41b2dc2e89e63ce4af1ba7bb29bf68c6dee6f9f1cc047e30dffae3b3ba259263.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/5614069a2fd7c2ecd3f5e1bd44b23ec74676b9bc99115cc0ef949855d689d0dd.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/68f698f81f6482be3a8ceeb9281d4cfc71515d6793d444d10a67acbb4f4ffbc4.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/7461b4a09cfb3d41d75159575b2e7649a445a8d27709b0cc564a6482b7eb41a3.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/a4b90990b418581487bb13a2cc67700a3c359804f91bdfb8e377cd0ec80ddc10.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/a577ac9ced7548dd8f025b67a241089df86e0f476ec203c2ecbedb185f282638.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/ac3b9aed7fa9674757159e6d7d575672f9d98100941e9bdeffeca1313b75782d.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/bbd9dfbc1f8a71b593942397aa927b473857950aab52e81a909664368e1ed185.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/bc78e1dfc5f63c684649334da10fa15f0979692009c081b4f3f6917f3ed9b8a5.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/cdb5179b7fc1c046feea31136a3f8f002e6182faf8896fecc8b2f5b5ab604900.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/ddeb1d2b7a0d4fa6208b81ad8168707e2e8e9d01d55c888d3d11c4cdb6ecbecc.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/_platform_specific/all/sths/ee4bbdb775ce60bae142691fabe19e66a30f7e5fb072d88300c47b897aa8fdcb.sth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/manifest.fingerprint" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/CertificateTransparency/416/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cache/data_0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cache/data_1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cache/data_2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cache/data_3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cache/f_000003" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cache/f_000004" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cache/f_000013" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cache/f_00005a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cache/f_00005d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cache/f_000061" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cache/f_000063" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cache/f_000064" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cache/index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cookies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Cookies-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Current Session" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Current Tabs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extension Rules/000003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extension Rules/CURRENT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extension Rules/LOCK" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extension Rules/LOG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extension Rules/MANIFEST-000001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extension State/000003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extension State/CURRENT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extension State/LOCK" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extension State/LOG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extension State/LOG.old" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extension State/MANIFEST-000001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/bg/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/ca/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/cs/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/da/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/de/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/el/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/en/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/en_GB/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/es/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/es_419/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/et/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/fi/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/fil/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/fr/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/hi/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/hr/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/hu/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/id/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/it/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/ja/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/ko/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/lt/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/lv/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/nb/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/nl/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/pl/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/pt_BR/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/pt_PT/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/ro/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/ru/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/sk/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/sl/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/sr/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/sv/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/th/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/tr/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/uk/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/vi/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/zh_CN/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_locales/zh_TW/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/_metadata/verified_contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/craw_background.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/craw_window.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/css/craw_window.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/html/craw_window.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/images/flapper.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/images/icon_128.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/images/icon_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/images/topbar_floating_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/images/topbar_floating_button_close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/images/topbar_floating_button_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/images/topbar_floating_button_maximize.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/images/topbar_floating_button_pressed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.2_0/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/am/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/ar/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/bg/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/bn/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/ca/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/cs/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/da/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/de/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/el/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/en/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/es/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/et/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/fa/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/fi/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/fil/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/fr/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/gu/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/hi/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/hr/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/hu/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/id/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/it/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/iw/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/ja/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/kn/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/ko/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/lt/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/lv/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/ml/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/mr/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/ms/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/nb/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/nl/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/pl/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/pt/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/pt_BR/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/pt_PT/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/ro/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/ru/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/sk/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/sl/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/sr/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/sv/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/sw/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/ta/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/te/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/th/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/tr/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/uk/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/vi/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/zh/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_locales/zh_TW/messages.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_metadata/computed_hashes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/_metadata/verified_contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/background_script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/cast_game_sender.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/cast_route_details.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/cast_route_details.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/cast_sender.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/cast_setup/cast_app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/cast_setup/cast_app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/cast_setup/cast_app_redirect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/cast_setup/chromecast_logo_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/cast_setup/devices.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/cast_setup/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/cast_setup/offers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/cast_setup/setup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/cloud_route_details/view.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/cloud_route_details/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/feedback.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/feedback.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/feedback_script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/material_css_min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/mirroring_cast_streaming.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/mirroring_common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/mirroring_hangouts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/5817.313.0.5_0/mirroring_webrtc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Favicons" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Favicons-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/GPUCache/data_0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/GPUCache/data_1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/GPUCache/data_2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/GPUCache/data_3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/GPUCache/index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/History" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/History Provider Cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/History-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Last Session" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Last Tabs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Local Storage/chrome-devtools_devtools_0.localstorage" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Local Storage/chrome-devtools_devtools_0.localstorage-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Local Storage/chrome-extension_pkedcjkdefgpdelpbcmbmeomcjbeemfm_0.localstorage" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Local Storage/chrome-extension_pkedcjkdefgpdelpbcmbmeomcjbeemfm_0.localstorage-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Login Data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Login Data-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Network Action Predictor" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Network Action Predictor-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Network Persistent State" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Preferences" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Secure Preferences" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Session Storage/000003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Session Storage/CURRENT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Session Storage/LOCK" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Session Storage/LOG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Session Storage/LOG.old" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Session Storage/MANIFEST-000001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Shortcuts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Shortcuts-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/000003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/CURRENT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/LOCK" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/LOG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/LOG.old" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Sync Extension Settings/pkedcjkdefgpdelpbcmbmeomcjbeemfm/MANIFEST-000001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Top Sites" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Top Sites-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/TransportSecurity" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Visited Links" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Web Data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/Web Data-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/data_reduction_proxy_leveldb/000003.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/data_reduction_proxy_leveldb/CURRENT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/data_reduction_proxy_leveldb/LOCK" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/data_reduction_proxy_leveldb/LOG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/data_reduction_proxy_leveldb/LOG.old" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/data_reduction_proxy_leveldb/MANIFEST-000001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/previews_opt_out.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Default/previews_opt_out.db-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/EVWhitelist/7/_metadata/verified_contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/EVWhitelist/7/_platform_specific/all/ev_hashes_whitelist.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/EVWhitelist/7/manifest.fingerprint" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/EVWhitelist/7/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/FileTypePolicies/11/download_file_types.pb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/FileTypePolicies/11/manifest.fingerprint" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/FileTypePolicies/11/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Local State" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/PepperFlash/25.0.0.171/PepperFlashPlayer.plugin/Contents/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/PepperFlash/25.0.0.171/PepperFlashPlayer.plugin/Contents/MacOS/PepperFlashPlayer" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/PepperFlash/25.0.0.171/PepperFlashPlayer.plugin/Contents/_CodeSignature/CodeResources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/PepperFlash/25.0.0.171/manifest.fingerprint" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/PepperFlash/25.0.0.171/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/SSLErrorAssistant/3/manifest.fingerprint" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/SSLErrorAssistant/3/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/SSLErrorAssistant/3/ssl_error_assistant.pb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing Bloom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing Bloom Prefix Set" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing Channel IDs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing Channel IDs-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing Cookies" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing Cookies-journal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing Csd Whitelist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing Download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing Download Whitelist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing Extension Blacklist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing IP Blacklist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing Module Whitelist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing Resource Blacklist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing UwS List" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Safe Browsing UwS List Prefix Set" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/ShaderCache/GPUCache/data_0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/ShaderCache/GPUCache/data_1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/ShaderCache/GPUCache/data_2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/ShaderCache/GPUCache/data_3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/ShaderCache/GPUCache/index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Subresource Filter/Indexed Rules/11/7.54/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Subresource Filter/Indexed Rules/11/7.54/Ruleset Data" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Subresource Filter/Unindexed Rules/7.54/Filtering Rules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Subresource Filter/Unindexed Rules/7.54/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Subresource Filter/Unindexed Rules/7.54/manifest.fingerprint" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/Subresource Filter/Unindexed Rules/7.54/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/chrome_shutdown_ms.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/pnacl/0.57.44.2492/_metadata/verified_contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_pnacl_json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtbegin_for_eh_o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtbegin_o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_crtend_o" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_ld_nexe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libcrt_platform_a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libgcc_a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libpnacl_irt_shim_a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_libpnacl_irt_shim_dummy_a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_pnacl_llc_nexe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/pnacl/0.57.44.2492/_platform_specific/x86_64/pnacl_public_x86_64_pnacl_sz_nexe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/pnacl/0.57.44.2492/manifest.fingerprint" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/chrome/pnacl/0.57.44.2492/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/launch.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,8 +329,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
@@ -50,7 +397,20 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ehome-admin-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ehome-admin-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
@@ -73,6 +433,68 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -83,21 +505,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1497455403678</updated>
-      <workItem from="1497455405002" duration="31000" />
+      <workItem from="1497455405002" duration="623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31000" />
+    <option name="totallyTimeSpent" value="623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="23" width="1385" height="877" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299363" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -121,5 +543,23 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
