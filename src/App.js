@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
+import { HashRouter as Router, Route, Link } from 'react-router-dom';
 
 import HeaderMenu from './modules/main/componet/HeaderMenu';
 import LeftMenu from './modules/main/componet/LeftMenu';

@@ -26,6 +26,7 @@ const columns = [
         render: () => <a href="javascript:void(0)">action</a>,
     },
 ];
+console.log("ddddddd===")
 
 const data = [];
 for (let i = 0; i < 100; i++) {

@@ -16,19 +16,17 @@ const text = `
 `;
 
 
-console.log("ddddddd===")
-
-
-fetch('http://localhost:8080/user/getUserInfo', {
-  credentials: 'include'
-}).then(function(response) {
-    response.json().then((res) => {
-          console.log("jsonData====" + Immutable.fromJS(res))
-        })
-
-    //let jsonData = res.json();
-  //console.log("jsonData====" + jsonData)
-});
+// fetch('http://localhost:8080/user/getUserInfo', {
+//   credentials: 'include'
+// }).then(function(response) {
+//     response.json().then((res) => {
+//           console.log("jsonData====" + Immutable.fromJS(res))
+//           console.log("sss")
+//         })
+//
+//     //let jsonData = res.json();
+//   console.log("jsonData===1121212=")
+// });
 
 
 class Home extends Component {
